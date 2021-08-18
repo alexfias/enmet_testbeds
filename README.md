@@ -1,2 +1,3 @@
 # enmet_testbeds
-testbeds for enmet applications
+Testbeds for Energy Meteorology Applications
+
